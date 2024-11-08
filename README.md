@@ -84,8 +84,8 @@ The solution is based on configurable "chains" of modules that make it easy to i
 
 ## Sreenshots Test
 
-![servidor](/LargeChaingServer/img/server.png)
-![cliente](/LargeChaingServer/img/client.png)
+![servidor](/img/server.png)
+![cliente](/img/client.png)
 
 ---
 
